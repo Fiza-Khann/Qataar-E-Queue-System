@@ -46,6 +46,25 @@ The ecosystem relies heavily on decoupled, asynchronous communication divided ac
 * **Automation:** `node-cron`[cite: 1]
 
 ---
+<img width="1080" height="2400" alt="WhatsApp Image 2026-05-17 at 1 38 45 PM" src="https://github.com/user-attachments/assets/c73ed3ef-cdf3-45be-902e-f03139ba35ff" /><img width="1080" height="2400" alt="WhatsApp Image 2026-05-17 at 1 40 22 PM" src="https://github.com/user-attachments/assets/8de3f81f-1938-482f-8bac-7b23428f43e0" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-05-17 at 1 38 45 PM (1)" src="https://github.com/user-attachments/assets/5c7d5091-cf9c-4948-92ee-ee9013109267" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-05-17 at 1 38 46 PM" src="https://github.com/user-attachments/assets/bfbd73ec-65d3-4ac4-b866-54661f84ead5" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-05-17 at 1 38 45 PM (2)" src="https://github.com/user-attachments/assets/29123999-9374-4d49-b3f9-8d06017d80d3" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-05-17 at 1 38 43 PM" src="https://github.com/user-attachments/assets/53fade26-bd51-4ac9-b180-88a2dadfe8fd" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-05-17 at 1 38 43 PM (1)" src="https://github.com/user-attachments/assets/480f417a-9287-4063-98cb-13f817b761b6" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-05-17 at 1 38 44 PM" src="https://github.com/user-attachments/assets/8c8e2692-c7af-486c-8a51-1d86f6dbef33" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-05-17 at 1 38 44 PM (1)" src="https://github.com/user-attachments/assets/409af1d5-a4a0-4d9e-93bc-3d43e9b9683a" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-05-17 at 1 38 44 PM (2)" src="https://github.com/user-attachments/assets/dc253660-d4f3-4261-a4fa-40f597913acf" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-05-17 at 1 38 43 PM (2)" src="https://github.com/user-attachments/assets/2c9a8c39-b6e8-4f3e-a93b-0c541121ed6f" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-05-17 at 1 38 43 PM (3)" src="https://github.com/user-attachments/assets/846cd85d-1961-49ca-be58-4015f95108ee" />
+<img width="920" height="1600" alt="WhatsApp Image 2026-05-17 at 1 38 42 PM" src="https://github.com/user-attachments/assets/123c1b0f-8541-4d2e-a94c-b57ea7e48530" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-05-17 at 1 38 42 PM (1)" src="https://github.com/user-attachments/assets/74168ed3-5500-475b-b484-ad562ef50df6" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-05-17 at 1 38 41 PM" src="https://github.com/user-attachments/assets/05b690f4-8a4d-414b-917c-45503db7d385" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-05-17 at 1 38 41 PM (1)" src="https://github.com/user-attachments/assets/d0919b93-ea0f-49fd-a281-5a6330a386fc" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-05-17 at 1 38 41 PM (2)" src="https://github.com/user-attachments/assets/f09b886d-c587-455b-8ac2-fb7dd6468e80" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-05-17 at 1 38 41 PM (3)" src="https://github.com/user-attachments/assets/330b47c9-2340-41f3-983a-f1191a600fda" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-05-17 at 1 38 45 PM (3)" src="https://github.com/user-attachments/assets/79a94466-08ee-4764-86cf-2c6808221be8" />
+
 
 ## 📁 Repository Structure
 
@@ -61,6 +80,3 @@ The ecosystem relies heavily on decoupled, asynchronous communication divided ac
     ├── server.js               # Entry point, routing definitions, database endpoints
     ├── package.json            # Node environment dependencies
     └── Configs/                # Firebase admin service account configuration tokens
----
-
-<img width="720" height="1600" alt="WhatsApp Image 2026-05-17 at 1 38 45 PM (3)" src="https://github.com/user-attachments/assets/eff3777e-934e-4e53-af3b-536a49b2158b" />
