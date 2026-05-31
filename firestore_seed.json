@@ -1,0 +1,218 @@
+{
+  "__collections__": {
+    "stores": {
+      "imtiaz_karachi": {
+        "name": "Imtiaz Super Market",
+        "location": "Karachi",
+        "__collections__": {
+          "branches": {
+            "clifton_branch": {
+              "name": "Clifton Branch",
+              "location": "Karachi",
+              "latitude": 24.8138,
+              "longitude": 67.0300,
+              "address": "Block 5, Clifton, Karachi",
+              "__collections__": {
+                "counters": {
+                  "counter_1": {
+                    "name": "Counter 1",
+                    "isActive": true
+                  },
+                  "counter_2": {
+                    "name": "Counter 2",
+                    "isActive": true
+                  },
+                  "counter_3": {
+                    "name": "Counter 3",
+                    "isActive": true
+                  }
+                },
+                "timeSlots": {
+                  "slot_1": {
+                    "startTime": "09:00",
+                    "endTime": "09:30",
+                    "capacity": 20,
+                    "bookedCount": 0
+                  },
+                  "slot_2": {
+                    "startTime": "09:30",
+                    "endTime": "10:00",
+                    "capacity": 20,
+                    "bookedCount": 0
+                  },
+                  "slot_3": {
+                    "startTime": "10:00",
+                    "endTime": "10:30",
+                    "capacity": 20,
+                    "bookedCount": 3
+                  },
+                  "slot_4": {
+                    "startTime": "10:30",
+                    "endTime": "11:00",
+                    "capacity": 20,
+                    "bookedCount": 1
+                  },
+                  "slot_5": {
+                    "startTime": "11:00",
+                    "endTime": "11:30",
+                    "capacity": 20,
+                    "bookedCount": 0
+                  },
+                  "slot_6": {
+                    "startTime": "11:30",
+                    "endTime": "12:00",
+                    "capacity": 20,
+                    "bookedCount": 0
+                  },
+                  "slot_7": {
+                    "startTime": "14:00",
+                    "endTime": "14:30",
+                    "capacity": 20,
+                    "bookedCount": 0
+                  },
+                  "slot_8": {
+                    "startTime": "14:30",
+                    "endTime": "15:00",
+                    "capacity": 20,
+                    "bookedCount": 0
+                  },
+                  "slot_9": {
+                    "startTime": "15:00",
+                    "endTime": "15:30",
+                    "capacity": 20,
+                    "bookedCount": 0
+                  },
+                  "slot_10": {
+                    "startTime": "15:30",
+                    "endTime": "16:00",
+                    "capacity": 20,
+                    "bookedCount": 0
+                  },
+                  "slot_11": {
+                    "startTime": "16:00",
+                    "endTime": "16:30",
+                    "capacity": 20,
+                    "bookedCount": 0
+                  },
+                  "slot_12": {
+                    "startTime": "16:30",
+                    "endTime": "17:00",
+                    "capacity": 20,
+                    "bookedCount": 0
+                  }
+                },
+                "tokens": {
+                  "token_1001": {
+                    "userId": "dummy_user_1",
+                    "tokenNumber": "QTR-1001",
+                    "numberOfItems": 8,
+                    "slotId": "slot_3",
+                    "counterId": "counter_1",
+                    "status": "serving",
+                    "queuePosition": 1,
+                    "priority": "normal",
+                    "congestionLevel": "Low",
+                    "estimatedWaitMinutes": 0,
+                    "date": "2025-07-09"
+                  },
+                  "token_1002": {
+                    "userId": "dummy_user_2",
+                    "tokenNumber": "QTR-1002",
+                    "numberOfItems": 15,
+                    "slotId": "slot_3",
+                    "counterId": "counter_1",
+                    "status": "waiting",
+                    "queuePosition": 2,
+                    "priority": "normal",
+                    "congestionLevel": "Low",
+                    "estimatedWaitMinutes": 4,
+                    "date": "2025-07-09"
+                  },
+                  "token_1003": {
+                    "userId": "dummy_user_3",
+                    "tokenNumber": "QTR-1003",
+                    "numberOfItems": 25,
+                    "slotId": "slot_3",
+                    "counterId": "counter_2",
+                    "status": "waiting",
+                    "queuePosition": 1,
+                    "priority": "high",
+                    "congestionLevel": "Medium",
+                    "estimatedWaitMinutes": 5,
+                    "date": "2025-07-09"
+                  },
+                  "token_1004": {
+                    "userId": "dummy_user_4",
+                    "tokenNumber": "QTR-1004",
+                    "numberOfItems": 5,
+                    "slotId": "slot_4",
+                    "counterId": "counter_1",
+                    "status": "waiting",
+                    "queuePosition": 3,
+                    "priority": "normal",
+                    "congestionLevel": "Low",
+                    "estimatedWaitMinutes": 8,
+                    "date": "2025-07-09"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "carrefour_karachi": {
+        "name": "Carrefour",
+        "location": "Karachi",
+        "__collections__": {
+          "branches": {
+            "dolmen_branch": {
+              "name": "Dolmen Mall Branch",
+              "location": "Karachi",
+              "latitude": 24.8142,
+              "longitude": 67.0310,
+              "address": "Dolmen Mall, Clifton, Karachi",
+              "__collections__": {
+                "counters": {
+                  "counter_a": {
+                    "name": "Express Counter",
+                    "isActive": true
+                  },
+                  "counter_b": {
+                    "name": "Regular Counter",
+                    "isActive": true
+                  }
+                },
+                "timeSlots": {
+                  "slot_a1": {
+                    "startTime": "10:00",
+                    "endTime": "10:30",
+                    "capacity": 15,
+                    "bookedCount": 0
+                  },
+                  "slot_a2": {
+                    "startTime": "10:30",
+                    "endTime": "11:00",
+                    "capacity": 15,
+                    "bookedCount": 0
+                  },
+                  "slot_a3": {
+                    "startTime": "11:00",
+                    "endTime": "11:30",
+                    "capacity": 15,
+                    "bookedCount": 0
+                  },
+                  "slot_a4": {
+                    "startTime": "11:30",
+                    "endTime": "12:00",
+                    "capacity": 15,
+                    "bookedCount": 0
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
