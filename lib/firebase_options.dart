@@ -44,7 +44,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBxPlxp1mfIlnc3xtKxtrT3cYILj0oNuVs',
+    apiKey: '',
     appId: '1:536550012612:web:5f4dbd2723b0059c9ebb91',
     messagingSenderId: '536550012612',
     projectId: 'qataar-f48c7',
@@ -53,7 +53,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBYbsZLI9shAI1nWcm0ew0rXyq6itKjDUo',
+    apiKey: '',
     appId: '1:536550012612:android:99f23eb523095caf9ebb91',
     messagingSenderId: '536550012612',
     projectId: 'qataar-f48c7',
@@ -61,7 +61,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAy9RimO4HwDvJmRAN6HZirraH8hpLGAVM',
+    apiKey: '',
     appId: '1:536550012612:ios:1afdd5c946c337609ebb91',
     messagingSenderId: '536550012612',
     projectId: 'qataar-f48c7',
@@ -70,7 +70,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyBxPlxp1mfIlnc3xtKxtrT3cYILj0oNuVs',
+    apiKey: '',
     appId: '1:536550012612:web:da981c9bb80203e49ebb91',
     messagingSenderId: '536550012612',
     projectId: 'qataar-f48c7',
