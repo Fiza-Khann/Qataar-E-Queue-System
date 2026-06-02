@@ -3,7 +3,7 @@ import 'package:http/http.dart' as http;
 
 class RouteService {
   static const String _accessToken =
-      "pk.eyJ1IjoiZml6YWtoYW5uIiwiYSI6ImNtaG02bzFyaTIwMTAyanFxNHlpdW1jNHYifQ.NFvJ6OYabjb5l9tf_oRnnA";
+      "";
 
   /// Fetch route duration in seconds between two points
   static Future<int?> getRouteDuration(double startLng, double startLat, double endLng, double endLat) async {
